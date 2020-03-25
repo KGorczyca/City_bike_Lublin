@@ -33,4 +33,4 @@ Project is: _in progress_
 
 
 ## Contact
-Created by 
+Created by kmgorczyca@wp.pl, https://www.linkedin.com/in/katarzyna-gorczyca-ostrowska-48018a70/
