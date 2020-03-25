@@ -13,9 +13,9 @@ The Python City_bike_Lublin project was created to give practical advice on stan
 real data. This project will help you understand how to use pandas and Matplotlib to obtain information of interest to you.
 
 What you will learn:
-*Install the required packages 
-*Read data into a Jupyter notebook 
-*Use Matplotlib to create data visualizations
+* Install the required packages
+* Read data into a Jupyter notebook 
+* Use Matplotlib to create data visualizations
 
 
 ## Technologies
