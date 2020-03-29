@@ -3,6 +3,7 @@
 
 ## Table of contents
 * [General info](#general-info)
+* [About project](#about project)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Status](#status)
@@ -17,7 +18,10 @@ What you will learn:
 * Read data into a Jupyter notebook 
 * Use Matplotlib to create data visualizations
 
-
+##About project
+The project contains 4 parts. Parts 1-3 are the analysis city bike during years 2014/2016/2017. The last part of the project is a comparison of previous ones and contains conclusions from the whole analysis. 
+Purpose: developing programing skills, improving the use of data analysis tools and learning something interesting about the city bike in Lublin.
+    
 ## Technologies
 * Python - version 3.7
 * Python libraries as needed ( Numpy, Pandas, Matplotlib,Plotly)
