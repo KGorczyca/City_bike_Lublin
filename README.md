@@ -3,7 +3,7 @@
 
 ## Table of contents
 * [General info](#general-info)
-* [About project]
+* About project
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Status](#status)
