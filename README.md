@@ -3,22 +3,22 @@
 
 ## Table of contents
 * [General info](#general-info)
-* About project
+* About the project
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Status](#status)
 * [Contact](#contact)
 
 ## General info
-The Python City_bike_Lublin project was created to give practical advice on standard Python tools to data analysis, using
+The Python City_bike_Lublin project was created to give practical advice on standard Python tools for data analysis, using
 real data. This project will help you understand how to use pandas and Matplotlib to obtain information of interest to you.
 
 What you will learn:
 * Install the required packages
-* Read data into a Jupyter notebook 
+* Upload data into a Jupyter notebook 
 * Use Matplotlib to create data visualizations
 
-## About project
+## About the project
 The project contains 4 parts. Parts 1-3 are the analysis city bike during years 2014/2016/2017. The last part of the project is a comparison of previous ones and contains conclusions from the whole analysis. 
 Purpose: developing programing skills, improving the use of data analysis tools and learning something interesting about the city bike in Lublin.
     
