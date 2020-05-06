@@ -1,9 +1,9 @@
-# <h1> City_bike_Lublin
+# City_bike_Lublin
 > Data analysis about city bike in Lublin over the years. Project made under the Tech Leaders program. The mentor: Anna Cibis.
 
 ## Table of contents
 * [General info](#general-info)
-* About the project
+* [About the project](#about-the-project)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Status](#status)
