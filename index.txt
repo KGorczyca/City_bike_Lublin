@@ -1,0 +1,101 @@
+<!DOCTYPE HTML>
+<html lang="pl">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<title>CITY BIKE LUBLIN</title>
+<link rel="stylesheet" href="styl.css" type="text/css" />
+
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+
+</head>
+<body>
+
+<header>
+<div class="content">
+<h1><a href="index.html">Projekt City Bike Lublin</a></h1>
+<p>Katarzyna Gorczyca </p>
+<nav>
+<ul>
+<li><a id="currentpage" href="index.html">Start</a></li>
+<li><a href="o-firmie.html">Kilka słów o mnie</a></li>
+<li><a href="oferta.html">Projekt CITY BIKE LUBLIN</a></li>
+<li class="last"><a href="kontakt.html">Kontakt</a></li>
+</ul>
+</nav>
+</div>
+</header>
+
+
+<div id="main">
+
+<div class="content">
+
+<img src=""images/baner.jpg" alt="" title="" />
+<div class="text"><h2>City Bike Lublin</h2>
+<p>Projekt powstał w celu dokonania analizy wypożyczeń roweru miejskiego w Lublinie.</p></div>
+
+<section class="left">
+
+<article>
+<h2>Analiza i wnioski</h2>
+<p>Szczegółowy opis.</p>
+<a class="wiecej" href="o-firmie.html">więcej</a>
+</article>
+</section>
+
+<section class="right">
+
+<article>
+<h2>Oferta</h2>
+<p>Szczegółowy opis</p>
+<a class="wiecej" href="oferta.html">więcej</a>
+</article>
+</section>
+
+</div>
+
+</div>
+
+<img src="images/baner.jpg" alt="opis obrazka" title="tytuł obrazka" />
+
+<footer>
+
+<div class="content">
+
+<ul>
+<li><strong>Kontakt:</strong> https://www.linkedin.com/in/katarzyna-gorczyca-ostrowska-48018a70/</li>
+<li class="center"><strong>Telefon:</strong> 697-429-824</li>
+<li><strong>Mail:</strong><a href="mailto:kmgorczyca@wp.pl">mail@mail.pl</a>
+</li>
+</ul>
+
+<div class="copyright">
+<p>copyright © 2013 <a href="index.html">nazwa/logo</a></p>
+</div>
+
+</div>
+
+</body>
+</html>
+
+<div id="main">
+
+<div class="content">
+
+<section class="article">
+<article>
+<h2>O firmie</h2>
+<h4>Szczegółowy opis</h4>
+<ul>
+<li>lista</li>
+<li>lista</li>
+<li>lista</li>
+</ul>
+</article>
+</section>
+
+</div>
+
+</div>
