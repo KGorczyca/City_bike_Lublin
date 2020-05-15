@@ -1,0 +1,31 @@
+﻿p {
+	color: #000000;
+	font-size: 16px;
+	font_family: Courier New
+	font_style:bold;
+	margin-left:10px;
+	margin-right:10px;
+}
+
+a {
+	color: #000000;
+	font_size: 16px;
+	font-family: Courier New;
+	font-style: bold;
+	font-style: underline;
+}
+	
+
+img {
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 10px
+}
+
+li {
+
+	color: #ffflll;
+	font-size: 16px;
+	font_family: Courier New
+	font_style:bold;
+}
