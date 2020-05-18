@@ -3,8 +3,8 @@
 	font-size: 16px;
 	font_family: Courier New
 	font_style:bold;
-	margin-left:10px;
-	margin-right:10px;
+	margin-left:20px;
+	margin-right:20px;
 }
 
 a {
@@ -17,9 +17,9 @@ a {
 	
 
 img {
-	margin-top: 10px;
-	margin-left: 10px;
-	margin-right: 10px
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-right: 20px
 }
 
 li {
