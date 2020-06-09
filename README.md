@@ -1,6 +1,6 @@
 # City_bike_Lublin
 > Data analysis about city bike in Lublin over the years. Project made under the Tech Leaders program. The mentor: Anna Cibis.
-> Github pages: https://kgorczyca.github.io/City_bike_Lublin/PODSTRONY/index.html
+> Github pages: https://kgorczyca.github.io/City_bike_Lublin
 ## Table of contents
 * [General info](#general-info)
 * [About the project](#about-the-project)
