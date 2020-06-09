@@ -1,31 +1,182 @@
-﻿p {
+﻿* {	
+	margin: 0; 
+	padding: 0
+	box-sizing: border-box;
+}
+
+body img {
+	width=100%;
+	display: block;
+}
+
+#wrapper {
+	max-width: 1000px;
+	margin: 0 auto 0 auto;
+	background-color: red;
+}
+
+table {
+	color: white;;
+	font-size: 25px;
+}
+
+td, tr { 
+	color: #ffffff White;
+
+ }
+
+nav {
+	background-color: none;
+	overflow: hidden;
+	
+}
+
+nav a {
+}
+
+a.menu{
+	display: block;
+	width: 15%;
+	float: left;
 	color: #000000;
-	font-size: 16px;
+	font-size: 25px;
+	text-align: center;
+	text-decoration: none;
+	font-weight: bold;
+	font_family: Courier New;
+	-webkit-transition: all 0.5s ease;
+	transition: all 0.5s ease;
+	
+
+	
+}
+
+a.menu:hover{
+	background-color:#333399;
+	cursor: pointer;
+	}
+
+.active {
+	background-color: ;
+}
+
+p {
+	color: #000000;
+	font-size: 25px;
 	font_family: Courier New
 	font_style:bold;
-	margin-left:20px;
-	margin-right:20px;
+	
 }
 
 a {
 	color: #000000;
-	font_size: 16px;
+	font_size: 25px;
 	font-family: Courier New;
 	font-style: bold;
 	font-style: underline;
 }
 	
 
-img {
-	margin-top: 20px;
-	margin-left: 20px;
-	margin-right: 20px
-}
+
 
 li {
 
 	color: #ffflll;
-	font-size: 16px;
+	font-size: 25px;
 	font_family: Courier New
 	font_style:bold;
 }
+
+article {
+	margin-top:30px;
+	margin-bottom:20px;
+	padding: 0 20 px;
+}
+
+
+article h1 {
+	font-size:30px;
+	text-align:center;
+	margin: 0 10% 20px 10%;
+	padding-botton: 15px;
+	border-bottom:2px solid #333399;
+	
+}
+
+
+article2 h1 {
+	font-size:30px;
+	text-align:center;
+	margin: 0 10% 20px 10%;
+	padding-botton: 15px;
+	border-bottom:2px solid #333399;
+	
+}
+
+img.left {
+	float:left;
+	margin: 0px 10px 10px 0;
+	width:25%;
+	padding:10px;
+}
+
+article p {
+	text-align: left;
+	line-height:20px;
+	font-size: 25px;
+	padding: 0px 0 15px 0;
+	
+}
+
+article2 p {
+	text-align: center;
+	line-height:20px;
+	font-size: 25px;
+	padding: 0px 0 15px 0;
+	
+}
+
+img.plot{
+	align: center;
+	float: below;
+	margin: 0px 10px 10px 0px;
+	width: 45%;
+	padding: 0px 0px 15px 0px;
+}
+
+a.center{color: darkblue;
+	font-size: 26px;
+	font_family: Courier New
+	font_style:bold;
+	text-align: center;
+}
+
+footer {
+	height: 40px;
+	background-color: #bbbbbb;
+	color: white;
+	line-height:40px;
+	text-align: center;
+	margin-top: 135px;
+	}
+
+@media(max-width: 800px){
+	nav a {
+		width: 50%;
+		font-size: 22px;
+		
+	}
+	h1{
+		font-size: 40px;
+		}
+}
+
+@media (max-width: 500px) {
+	nav a {
+		width: 100%;
+		}	
+	}
+
+
+
+
